@@ -8,7 +8,7 @@ Projeto de simulação bancária desenvolvido para consolidar conceitos avançad
 * **Persistência de Dados:** Armazenamento em arquivos **JSON**, garantindo que os dados não sejam perdidos ao fechar o sistema.
 * **Segurança:** Tratamento de exceções para evitar erros de saldo insuficiente ou entradas inválidas.
 
-## 🛠️ Tecnologias e Conceitos
+## Tecnologias e Conceitos
 * **Linguagem:** Python 3.x
 * **Arquitetura:** Modular (Separação de responsabilidades)
 * **Persistência:** JSON
